@@ -1,6 +1,6 @@
 # Rosalind Bioinformatics Problem Solutions
 
-This repository is a collection of my solutions to Rosalind (http://rosalind.info/) bioinformatics problems. By solving these challenges, I aim to deepen my understanding of computational biology concepts and enhance my problem-solving skills in the field of bioinformatics.
+This repository is a collection of my solutions to Rosalind [Rosalind](http://rosalind.info/) bioinformatics problems. By solving these challenges, I aim to deepen my understanding of computational biology concepts and enhance my problem-solving skills in the field of bioinformatics.
 
 This journey not only helps me gain hands-on experience with algorithms and biological data but also reflects my commitment to continuous learning and growth in this exciting interdisciplinary field.
 
