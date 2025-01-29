@@ -1,5 +1,3 @@
-# Rosalind Bioinformatics Problem Solutions
-
 # **Transcribe DNA to RNA**
 
 ## **Problem Description:**
