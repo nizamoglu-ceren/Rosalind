@@ -11,8 +11,8 @@ The problems are organized into folders by topics for ease of navigation:
 - **Topics:** String Algorithms, Dynamic Programming, Graph Algorithms, Genome Assembly, etc.
 - **Problem Details:** Each problem has its own folder containing:
 
--*README.md:* Problem description and biological context, input/output examples, link to the problem on Rosalind.
--*Solution files:* solution.py: Python implementation.
+- *README.md:* Problem description and biological context, input/output examples, link to the problem on Rosalind.
+- *Solution files:* solution.py: Python implementation.
                 solution.R: R implementation (if applicable).
 
   
